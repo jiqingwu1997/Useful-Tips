@@ -15,3 +15,9 @@ Change output in the beginning of your rmarkdown file to either
     keep_md: true
     
 Choose whichever you like. These will knit a file that ends with ".md" which should be uploaded
+
+#Uploading figure files
+Problem: The histogram still does not show on github in a .md file.
+
+Solutions:
+Go to the folder containing the .md file and find another folder, created at the same time, called something like “figure-gfm”. Upload or commit the folder along with the .md file. 
